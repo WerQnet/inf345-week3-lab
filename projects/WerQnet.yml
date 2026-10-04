@@ -1,0 +1,3 @@
+repo: https://github.com/WerQnet/deployment-tracker-api
+language: python
+what: A deployment tracking API for recording application versions across development, staging, and production environments
